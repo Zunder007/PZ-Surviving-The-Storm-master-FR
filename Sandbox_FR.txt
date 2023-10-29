@@ -1,0 +1,5 @@
+Sandbox_FR = {
+	Sandbox_SurvivingTheStorm = "Surviving The Storm",
+	
+	Sandbox_SurvivingTheStorm_ThunderSoundRadius = "Rayon du son généré par la tempête",
+}
